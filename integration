@@ -1,0 +1,34 @@
+{
+   "MaskTrac Groups and Resources Descriptions": [
+      {
+         "Group Name": "ACCOUNTING",
+         "Group Description": "Finance reports",
+         "Resource Type": "FORM",
+         "Resource Description": "Data Prep Start Form"
+      },
+      {
+         "Group Name": "ACCOUNTING",
+         "Group Description": "Finance reports",
+         "Resource Type": "FORM",
+         "Resource Description": "Documents to Ship"
+      },
+      {
+         "Group Name": "ACCOUNTING",
+         "Group Description": "Finance reports",
+         "Resource Type": "FORM",
+         "Resource Description": "Reject Form"
+      },
+      {
+         "Group Name": "ACCOUNTING",
+         "Group Description": "Finance reports",
+         "Resource Type": "FORM",
+         "Resource Description": "Shipping workcenter"
+      },
+      {
+         "Group Name": "ADMIN",
+         "Group Description": "AUTOUSER and some reports, incl Price",
+         "Resource Type": "FORM",
+         "Resource Description": "FEOT Automation user access"
+      }
+   ]
+}
